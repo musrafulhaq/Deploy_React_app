@@ -23,7 +23,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Trident Information Systems pvt lvt
+          Trident Information Systems Pvt Lvt
         </a>
       </header>
     </div>
